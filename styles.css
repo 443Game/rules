@@ -17,7 +17,7 @@ body{
   background: linear-gradient(to left, #ad701a, #eb8b03);
   border-radius: 16px 16px;
   width: 100%;
-  max-width: 460px;
+  max-width: 720px;
   box-sizing: border-box;
 
 }
@@ -54,4 +54,5 @@ body{
     object-fit: cover;
 
 }
+
 
