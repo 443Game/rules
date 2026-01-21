@@ -1,0 +1,53 @@
+body{
+    background: linear-gradient(to right, #45a6d6, #04416f);
+    height: 200vh;
+}
+
+#headline{
+    font-size: 15px;
+}
+
+
+#header{
+  padding: 0 10px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(to left, #ad701a, #eb8b03);
+  border-radius: 16px 16px;
+  width: 100%;
+  max-width: 720px;
+  box-sizing: border-box;
+}
+
+
+#body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#Text{
+    font-size: 8px;
+}
+
+#right-header{
+    height: 15px;
+    width: 15px;
+    overflow: hidden;
+    
+}
+#left-header{
+    height: 15px;
+    width: 15px;
+}
+#right-header img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
